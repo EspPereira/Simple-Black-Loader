@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Simple-Orange-Loader
+Encoding=UTF-8
+Type=Service
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Author=LinuxPerfeito
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-PluginInfo-Name=Simple-Orange-Loader
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-MainScript=defaults

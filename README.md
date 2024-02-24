@@ -1,5 +1,5 @@
-# Simple-Black-Loader
+# Simple-Loader
 KDE Plasma Splashscreen\
 \
 Installation:\
-Copy "Simple-Black-Loader" folder to "~/.local/share/plasma/look-and-feel"
+Copy "Simple-{color}-Loader" folder to "~/.local/share/plasma/look-and-feel"
