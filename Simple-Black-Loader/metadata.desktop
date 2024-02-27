@@ -3,7 +3,6 @@ Name=Simple-Black-Loader
 Encoding=UTF-8
 Type=Service
 X-KDE-PluginInfo-Version=1.0
-X-KDE-PluginInfo-Author=LinuxPerfeito
 X-KDE-PluginInfo-Category=Plasma Look And Feel
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 X-KDE-PluginInfo-Name=Simple-Black-Loader

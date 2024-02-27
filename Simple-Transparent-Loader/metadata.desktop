@@ -1,11 +1,11 @@
 [Desktop Entry]
-Name=Simple-Blue-Loader
+Name=Simple-Transparent-Loader
 Encoding=UTF-8
 Type=Service
 X-KDE-PluginInfo-Version=1.0
 X-KDE-PluginInfo-Category=Plasma Look And Feel
 X-KDE-ServiceTypes=Plasma/LookAndFeel
-X-KDE-PluginInfo-Name=Simple-Blue-Loader
+X-KDE-PluginInfo-Name=Simple-Transparent-Loader
 X-KDE-PluginInfo-License=GPLv3
 X-KDE-PluginInfo-EnabledByDefault=true
 X-Plasma-MainScript=defaults
